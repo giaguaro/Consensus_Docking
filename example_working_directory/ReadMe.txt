@@ -1,6 +1,6 @@
 Automated pipeline for running consensus scoring between docking programs. Highest number of programs supported is five.
 
-Inputs required: 1) SDF format file from the docking program (put that into a directory named after the dockign program - one word) within the working directory. 2) All utilities that come with this package.
+Inputs required: 1) SDF format file from the docking program (put that into a directory named after the docking program - one -word- only name of the file) within the working directory. 2) All utilities that come with this package.
 
 Example syntax for running Snakefile for five docking programs consensus of poses scoring (RMSD of 2 Angstroms):
 
