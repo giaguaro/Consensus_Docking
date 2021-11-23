@@ -1,0 +1,10 @@
+#Docking softwares field name that correspond to the relevant score output - you can manually look through the sdf to find the name of the score field, its usually near the end of each entry.
+
+{
+  "docking_software1": "ADSCOR",
+  "docking_software2": "r_i_docking_score",
+  "docking_software3": "FRED Chemgauss4 score",
+  "docking_software4": "Score",
+  "docking_software5": "VSCORE",
+  "option":"t2"
+}
